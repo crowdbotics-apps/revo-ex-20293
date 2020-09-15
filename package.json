@@ -14,7 +14,7 @@
     "preset": "react-native"
   },
   "dependencies": {
-    "@eva-design/eva": "^1.4.0",
+    "@eva-design/eva": "^2.0.0",
     "axios": "0.19.0",
     "lodash": "4.17.20",
     "moment": "2.27.0",
